@@ -18,3 +18,5 @@ If you'd like to be credited in the Pedometer++ Help section please indicate thi
 
 Thank you so much for helping me make Pedometer++ as awesome as possible!
 
+This project was inspired by the work of [@steventroughtonsmith](https://github.com/steventroughtonsmith)
+ with [Broadcasts](https://github.com/steventroughtonsmith/broadcasts-localization).
