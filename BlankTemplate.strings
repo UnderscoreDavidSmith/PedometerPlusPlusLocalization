@@ -1,0 +1,575 @@
+/* Distance expressed in kilometers */
+"%0.1f km" = "";
+
+/* Distance expressed in miles. */
+"%0.1f mi" = "";
+
+/* Indicator for the percentage the user has completed towards their weekly step goal */
+"%li%% of Goal" = "";
+
+/* Title for the largest gratuity, there are three levels of tipping so please ensure the three strings make sense together for small, medium, large */
+"Amazing\nTip of\n%@" = "";
+
+/* Setting that puts the current walking step count on the applications icon badge */
+"Badge Step Count on Icon" = "";
+
+/* The unit system that includes miles, feet and inches */
+"Customary" = "";
+
+/* Title for the settings section where the user sets their daily walking step count goal */
+"Daily Step Goal" = "";
+
+/* Button indicating the they want to return */
+"Done" = "";
+
+/* The app estimates the user's walking stride length and displays it to them */
+"Estimated stride" = "";
+
+/* Button title for exporting the user's data */
+"Export" = "";
+
+/* Button title for exporting the user's data */
+"ExportTransfer" = "";
+
+/* The female gender, women */
+"Female" = "";
+
+/* Example of device that supports motion tracking */
+"For example, the iPhone 5s." = "";
+
+/* Title for the smallest gratuity, there are three levels of tipping so please ensure the three strings make sense together for small, medium, large */
+"Generous\nTip of\n%@" = "";
+
+/* Title for the medium gratuity, there are three levels of tipping so please ensure the three strings make sense together for small, medium, large */
+"Massive\nTip of\n%@" = "";
+
+/* Explanation that app needs to be given permission to access step counts. */
+"In order for Pedometer++ to collect step counts it needs to be given permission in the main Settings app." = "";
+
+/* Title of message explaining that this device isn't supported, expression of sorrow */
+"I’m Sorry" = "";
+
+/* Message shown while we are loading purchase data */
+"Loading..." = "";
+
+/* The male gender, men */
+"Male" = "";
+
+/* The unit system that includes kilometers, meters, and centimeters */
+"Metric" = "";
+
+/* Prefix of a message saying 'My Steps for {date}' */
+"My Steps for" = "";
+
+/* Dismiss button for alert */
+"OK" = "";
+
+/* Title of message explaining their device isn't supported, should be whimsical expressing a mistake. */
+"Ooops." = "";
+
+/* Name of the application, Pedometer++ */
+"Pedometer++" = "";
+
+/* Explanation that app can only collect data on a device with Apple's M7 chip */
+"Pedometer++ can only collect data on a device that supports Step Count Tracking via Apple’s M7 coprocessor." = "";
+
+/* Title for the User's Data Export */
+"Pedometer++ Export" = "";
+
+/* Explanation that the development of this app relies on the contributions made my its users. */
+"Pedometer++ relies on your support to fund its development.  If you find it useful and motivating to get healthy and active, please consider supporting the app by leaving a tip in our Tip Jar." = "";
+
+/* Title of alert telling user Push Notifications failed to load */
+"Push Notifications" = "";
+
+/* Title of the Settings area of the app */
+"Settings" = "";
+
+/* Header of export of user's data */
+"Step Count Export from Pedometer++" = "";
+
+/* Progress text while a tip/gratuity is being processed */
+"Tip in Progress" = "";
+
+/* Title for the area of the app where we ask for tips/gratuities for supporting the app's development */
+"Tip Jar" = "";
+
+/* Explanation that app was unable to register for push notifications */
+"Unable to register for Push Notifications.\n\nPlease verify Notifications are enabled in the Settings app." = "";
+
+/* Explanation of what the step badge looks like */
+"Will display the current step count on the Pedometer++ app icon." = "";
+
+/* Prefix of the statement  */
+"You have taken %@ steps (%@) using Pedometer++.\n\n" = "";
+
+/* Number of floors climbed */
+"%li floors" = "";
+
+/* Single Floor Climbed */
+"%li floor" = "";
+
+/* Goal Achieved */
+"Goal Achieved!" = "";
+
+/* Automatic Distance Estimation */
+"Automatic Distance Estimation" = "";
+
+/* Automatic Distance Explanation */
+"Distance Explanation" = "";
+
+/* Merge Apple Watch Data */
+"Merge Apple Watch Data" = "";
+
+/* Intelligently merge motion data from your iPhone and Apple Watch to give a better overall view of your activity. */
+"Intelligently merge motion data from your iPhone and Apple Watch to give a better overall view of your activity." = "";
+
+/* Start Walk */
+"Start Walk" = "";
+
+/* End Walk */
+"End Walk" = "";
+
+/* Button to begin a workout session within the app.*/
+"Start Workout" = "";
+
+/* Button to begin an outdoor walking session within the app.*/
+"Outdoor Walk" = "";
+
+/* Button to begin an indoor walking session within the app.*/
+"Indoor Walk" = "";
+
+/* Button to end a workout session within the app.*/
+"End Workout" = "";
+
+/* Title for the settings section where the user sets their daily walking step count goal */
+"Daily Push Goal" = "";
+
+/* Wheelchair Mode */
+"Wheelchair Mode" = "";
+
+/* Have Pedometer++ use your Apple Watch to measure your daily wheelchair push counts rather than steps. */
+"Have Pedometer++ use your Apple Watch to measure your daily wheelchair push counts rather than steps." = "";
+
+/* number of days that a streak is active */
+"days" = "";
+
+/* setting to turn rest days on or off */
+"Allow Rest Days" = "";
+
+/* No comment provided by engineer. */
+"When enabled, activity streaks will not be broken by a single day missed after six consecutive days of reaching your goal." = "";
+
+
+/* Units to use to display distances (km vs mi) */
+"Distance Units" = "";
+
+/* Title on the section of the app wehre you can email the developer */
+"Get Help" = "";
+
+/* Title on the section of the app wehre you can email the developer */
+"Help" = "";
+
+/* Button to contact the developer */
+"Email Us" = "";
+
+/* description next to email us button */
+"Have a question or suggestion for the app?" = "";
+
+/* description for the export button */
+"Export your step data for use outside of the app." = "";
+
+/* button title to restore past purchase */
+"Restore Purchase" = "";
+
+/* title for section of the app requesting the user leave a review */
+"Leave a Review" = "";
+
+/* description for section of the app requesting that the user leave a review for the app in the App Store, informal */
+"If you have a minute to leave a review in the App Store, I'd really appreciate it. It really helps! Thank you." = "";
+
+/* title of the achievements section of the app */
+"Achievements" = "";
+
+/* title for the Day Total awards section of the Achievements area */
+"Day Totals" = "";
+
+/* title for the Streaks awards section of the Achievements area */
+"Streaks" = "";
+
+/* title for the Lifetime Steps awards section of the Achievements area */
+"Lifetime Steps" = "";
+
+/* title for the Lifetime Floors awards section of the Achievements area */
+"Lifetime Floors" = "";
+
+/* title for the Daily Floors award section of the achievements area */
+"Daily Floor Count" = "";
+
+/* title for the Awards awards section of the Achievements area */
+"Awards" = "";
+
+/* Number of floors climbed */
+"floors" = "";
+
+/* Number of steps taken */
+"steps" = "";
+
+/* prefix put before a user's best datapoint (best day, best week, etc) */
+"Best: " = "";
+
+/* title for the special achievments area of the app */
+"Special Achievements" = "";
+
+/* title for a special award earned for climbing lots of floors */
+"Mountain Climber" = "";
+
+/* explanation of mountain climber badge */
+"3 consecutive days with more than 100 floors" = "";
+
+/* title for a special award earned for walking a lot in a weekend */
+"Weekend Walker" = "";
+
+/* explanation of the weekend walker badge */
+"15,000 steps on a consecutive Saturday and Sunday" = "";
+
+/* title for a special award earned for hitting your goal for a whole month */
+"Perfect Month" = "";
+
+/* explanation of the perfect month badge */
+"Hit your goal every day for an entire month" = "";
+
+/* label under the number of steps a user has to take to complete a given award */
+"to go" = "";
+
+/* description of the goal streak badge, days always plural (>7) */
+"Reach your goal for %@ days in a row" = "";
+
+/* marker for the date a badge was earned */
+"Reached on %@" = "";
+
+/* button title after a purchase is made*/
+"Thank You!" = "";
+
+/* Setting Header for option to lock the app to a particular timezone */
+"Fixed Timezone" = "";
+
+/* Explanation of the fixed timezone mode where the app is locked to a particular timezone */
+"Display data using a fixed timezone, otherwise your current timezone will be used." = "";
+
+/* Option to change timezone based on locally chosen timezone. */
+"Change based on local setting." = "";
+
+/* Button title for choosing a new timezone */
+"Choose" = "";
+
+/* Title for chooser for a new timezone */
+"Choose Timezone" = "";
+
+/* Option to always use the local timezone */
+"Use Local Timezone" = "";
+
+/* Title for settings section regarding Themes */
+"Theme" = "";
+
+/* Title for custom icon chooser */
+"Icon" = "";
+
+/* Title for Monthly challanges badges */
+"Monthly Challenges" = "";
+
+/* Title for 2019 Monthly challanges badges */
+"2019 Challenges" = "";
+
+/* Title for 2019 Monthly challanges badges */
+"2020 Challenges" = "";
+
+/* Title for 2021 Monthly challanges badges */
+"2021 Challenges" = "";
+
+/* Title for 2022 Monthly challanges badges */
+"2022 Challenges" = "";
+
+/* Subtitle for monthly challenge badge header */
+"A new challenge every month" = "";
+
+/* Goal description, earn by doubling your goal %@ times */
+"Double your goal %@ times" = "";
+
+/* Title for goal based on total number of wheelchair pushes */
+"Lifetime Pushes" = "";
+
+/* Goal description for daily goal badge, earned by reaching your goal a certain number of times in a month*/
+"Reach your goal %@ times" = "";
+
+/* Short Goal description, earn by reaching your goal for %@ days in a row */
+"Get a %@ day streak" = "";
+
+/* Full Goal description, earn by reaching your goal for %@ days in a row, including Rest Days*/
+"Reach your goal for %@ days in a row (including Rest Days)." = "";
+
+/* suffix for count of wheelchair pushes, used for things like '12 pushes' (always plural) */
+"pushes" = "";
+
+/* prefix for descriptions that relate to walking steps, used for things like 'Walk 12000 steps' */
+"Walk" = "";
+
+/* Setting to have Pedometer++ use the system Dark Mode to control the current theme */
+"Follow System Dark Mode" = "";
+
+/* Remove Advertisements from the app */
+"Remove Ads" = "";
+
+/* Font for use in Widgets */
+"Widget Font" = "";
+
+/*  Tab Bar Item for Steps Graph */
+"Steps" = "";
+
+/*  Tab Bar Item for Badges List */
+"Badges" = "";
+
+/*  Tab Bar Item for Walking workouts */
+"Walk" = "";
+
+/*  Tab Bar Item for Wheelchair Workouts */
+"Roll" = "";
+
+/* number of days that a streak is active */
+"year" = "";
+
+/* number of days that a streak is active */
+"years" = "";
+
+"You can also track your workouts using the Pedometer++ Apple Watch app." = "";
+
+"Start Walking" = "";
+
+"Start Workout" = "";
+
+"GPS Tracking" = "";
+
+"GPS Status" = "";
+
+"Live Activity" = "";
+
+
+"Live Activities show your workout progress right on your Home Screen and in the Dynamic Island on compatible devices." = "";
+
+"Live Activity Layout" = "";
+
+"Disable Live Activity" = "";
+
+"View your workout track on a map while you move, with a route optionally overlaid." = "";
+
+"Select Route" = "";
+
+"Open" = "";
+
+"Goal" = "";
+
+"Map" = "";
+
+"Cancel" = "";
+
+"Pedometer++ will track your workout without a specific goal in mind. Just get out there and move." = "";
+
+"Set out with a specific distance goal in mind. Your progress towards this will be shown along the way." = "";
+
+"Routes" = "";
+
+"During your workouts it is possible to display your current location on a map. On this map you can overlay a GPS route for reference." = "";
+
+"View Routes" = "";
+
+"Miles" = "";
+
+"Kilometers" = "";
+
+"iPhone Only" = "";
+
+"Merge Data" = "";
+
+"Count Steps" = "";
+
+"Count Pushes" = "";
+
+"Automatic" = "";
+
+"Manual" = "";
+
+"Height:" = "";
+
+"Strict Streaks" = "";
+
+"Rest Days" = "";
+
+"Mirror iPhone" = "";
+
+"Override" = "";
+
+"Standard" = "";
+
+"Color Blind" = "";
+
+"Use Dark Mode" = "";
+
+"Premium Icons" = "";
+
+"Basic Icons" = "";
+
+"It doesn't look like you have Email setup on your iPhone, this is required for export." = "";
+
+"Duration" = "";
+
+"Distance" = "";
+
+"Speed" = "";
+
+"Pace" = "";
+
+"Distance Goal" = "";
+
+"Calories" = "";
+
+"Heart Rate" = "";
+
+"Average Speed" = "";
+
+"Average Pace" = "";
+
+"Average HR" = "";
+
+"Elevation" = "";
+
+"Workout Route" = "";
+
+"Add to Routes" = "";
+
+"Export as GPX" = "";
+
+"Don't Overlay Route" = "";
+
+"Walking" = "";
+
+"Hiking" = "";
+
+"Running" = "";
+
+"Routes are added to Pedometer++ via GPX files. GPX files contain the collection of GPS coordinates that you'd like to follow." = "";
+
+"No Routes Found" = "";
+
+"To add a GPX file to this list, locate the file on your iPhone and then hit **Share** and choose Pedometer++ as the destination." = "";
+
+"Downloading a route saves a roughly 800m wide strip of map along the track. This is not a wide area map suitable for primary navigation. Be careful and wise out there." = "";
+
+"This route display is for informational purposes only and does **not replace** proper navigational tools and common sense." = "";
+
+"Pedometer++ encourages you to be more active by making you aware of your daily movement." = "";
+
+"Motion & Fitness Data" = "";
+
+"Continue" = "";
+
+"Pedometer++ requires access to your Motion & Fitness data in order to display your daily movement." = "";
+
+"View Privacy Policy" = "";
+
+"This data is stored securely and never leaves your device." = "";
+
+"Get Started" = "";
+
+"Today" = "";
+
+"In order to track your movement during a workout Pedometer++ must be given access to your Location data." = "";
+
+"Open Settings" = "";
+
+"Permission has been denied. Please approve in Settings in order to use workout tracking." = "";
+
+"Health Permissions" = "";
+
+"Your workout results are saved to your Health database." = "";
+
+"Goal\nAchieved!" = "";
+
+"Remaining" = "";
+
+"Pause" = "";
+
+"Resume" = "";
+
+"End" = "";
+
+"Continue Workout" = "";
+
+"Are you sure you want to end this workout?" = "";
+
+"Delete Route" = "";
+
+"Rename Route" = "";
+
+"Save" = "";
+
+"All map tiles downloaded." = "";
+
+"Download in progress" = "";
+
+"downloaded for offline use." = "";
+
+"Checking map status..." = "";
+
+"Workout Mode" = "";
+
+"Paused" = "";
+
+"Walk" = "";
+
+"Run" = "";
+
+"Hike" = "";
+
+"Indoor" = "";
+
+"Outdoor" = "";
+
+"Other" = "";
+
+"Workout Display" = "";
+
+"Shown Metrics" = "";
+
+"Elevation Gain" = "";
+
+"Today's Steps" = "";
+
+"Workout Steps" = "";
+
+"Refresh" = "";
+
+"Add routes to Pedometer++ on your iPhone." = "";
+
+"Loading GPS..." = "";
+
+"None" = "";
+
+"Topographic Map" = "";
+
+"Standard Map" = "";
+
+"Satellite Map" = "";
+
+"In order to display your workout data Pedometer++ requires access to the workout metrics stored in the Health app." = "";
+
+"Loading Walks..." = "";
+
+"Loading Workouts..." = "";
+
+"No Workout Data Found" = "";
+
+"Permission has been denied. Please approve in Settings in order to use Pedometer++." = "";
+
+"Increase" = "";
+
+"Decrease" = "";
