@@ -12,6 +12,8 @@ This file takes a form of `"key" = "value";`, where the `key` is the source stri
 
 The baseline translations were done with an automated tool to allow me to start testing, these almost certainly lack context and clarity.  
 
+In order to add a new Language, I have added a [blank](https://github.com/UnderscoreDavidSmith/PedometerPlusPlusLocalization/blob/main/BlankTemplate.strings) file which would need to be filled in to establish the needed translations for that language. 
+
 # Attribution
 
 If you'd like to be credited in the Pedometer++ Help section please indicate this along with your Pull Request. 
