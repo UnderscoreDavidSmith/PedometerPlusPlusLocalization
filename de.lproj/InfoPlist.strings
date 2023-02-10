@@ -1,0 +1,5 @@
+/* The name of the app without the ++, this should be the generic term for a device that counts walking steps */
+"CFBundleDisplayName" = "Schrittzähler";
+
+/* Explanation of why Pedometer++ is asking to use your motion tracking data */
+"NSMotionUsageDescription" = "Schrittzähler++ greift auf die integrierte Schrittverfolgungsfunktion deines iPhones zu, um Schrittzahlen abzurufen, während du dich bewegst. Die App verringert nicht die Akkudauer.";
