@@ -2,4 +2,4 @@
 "CFBundleDisplayName" = "Schrittzähler";
 
 /* Explanation of why Pedometer++ is asking to use your motion tracking data */
-"NSMotionUsageDescription" = "Schrittzähler++ greift auf die integrierte Schrittverfolgungsfunktion deines iPhones zu, um Schrittzahlen abzurufen, während du dich bewegst. Die App verringert nicht die Akkudauer.";
+"NSMotionUsageDescription" = "Schrittzähler++ greift auf die integrierte Schrittverfolgungsfunktion deines iPhones zu, um Schrittzahlen abzurufen, während du dich bewegst. Die App reduziert nicht die Akkulaufzeit.";
