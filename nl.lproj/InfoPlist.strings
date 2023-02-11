@@ -1,0 +1,6 @@
+
+/* The name of the app without the ++, this should be the generic term for a device that counts walking steps */
+"CFBundleDisplayName" = "Pedometer";
+
+/* Explanation of why Pedometer++ is asking to use your motion tracking data*/
+"NSMotionUsageDescription" = "Pedometer++ gebruikt de ingebouwde beweging data functionaliteit van je iPhone om stappen te kunnen tellen.";
