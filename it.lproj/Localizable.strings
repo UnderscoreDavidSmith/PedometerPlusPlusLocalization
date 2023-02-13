@@ -1,7 +1,7 @@
 ﻿/* Distance expressed in kilometers */
 "%0.1f km" = "%0.1f km";
 
-/* Distance expressed in miles. */
+/* Distance expressed in miles */
 "%0.1f mi" = "%0.1f mi";
 
 /* Indicator for the percentage the user has completed towards their weekly step goal */
@@ -35,7 +35,7 @@
 "Female" = "Donna";
 
 /* Example of device that supports motion tracking */
-"For example, the iPhone 5s." = "Per esempio, l'iPhone 5s o successivi.";
+"For example, the iPhone 5s." = "Per esempio iPhone 5s o successivi.";
 
 /* Title for the smallest gratuity, there are three levels of tipping so please ensure the three strings make sense together for small, medium, large */
 "Generous\nTip of\n%@" = "Generosa\nmancia di\n%@";
@@ -44,7 +44,7 @@
 "Massive\nTip of\n%@" = "Generosa\nmancia di\n%@";
 
 /* Explanation that app needs to be given permission to access step counts. */
-"In order for Pedometer++ to collect step counts it needs to be given permission in the main Settings app." = "Per far sì che Pedometro++ raccolga i conteggi dei passi, è necessario autorizzarlo nell'app Impostazioni principale.";
+"In order for Pedometer++ to collect step counts it needs to be given permission in the main Settings app." = "Per far sì che Pedometro++ raccolga i conteggi dei passi, è necessario autorizzare l'app nelle impostazioni principali.";
 
 /* Title of message explaining that this device isn't supported, expression of sorrow */
 "I’m Sorry" = "Mi dispiace";
@@ -77,7 +77,7 @@
 "Pedometer++ Export" = "Esporta Pedometro++";
 
 /* Explanation that the development of this app relies on the contributions made my its users. */
-"Pedometer++ relies on your support to fund its development.  If you find it useful and motivating to get healthy and active, please consider supporting the app by leaving a tip in our Tip Jar." = "Pedometro++ fa conto su di te per sostenere il suo sviluppo. Se lo trovi utile e motivante per uno stile di vita sano e attivo, considera di dare il tuo supporto all'app lasciando una mancia nel nostro Vasetto delle mance.";
+"Pedometer++ relies on your support to fund its development.  If you find it useful and motivating to get healthy and active, please consider supporting the app by leaving a tip in our Tip Jar." = "Pedometro++ fa conto su di te per sostenere il suo sviluppo. Se lo trovi utile e motivante per uno stile di vita sano e attivo, considera di dare il tuo supporto all'app lasciando una mancia nel nostro Barattolo delle mance.";
 
 /* Title of alert telling user Push Notifications failed to load */
 "Push Notifications" = "Notifiche push";
@@ -92,7 +92,7 @@
 "Tip in Progress" = "Mancia in corso";
 
 /* Title for the area of the app where we ask for tips/gratuities for supporting the app's development */
-"Tip Jar" = "Vasetto delle mance";
+"Tip Jar" = "Barattolo delle mance";
 
 /* Explanation that app was unable to register for push notifications */
 "Unable to register for Push Notifications.\n\nPlease verify Notifications are enabled in the Settings app." = "Impossibile registrarsi per le notifiche push.\n\nVerificare che le Notifiche siano abilitate nell'app Impostazioni.";
@@ -113,13 +113,13 @@
 "Goal Achieved!" = "Obiettivo Raggiunto!";
 
 /* Automatic Distance Estimation */
-"Automatic Distance Estimation" = "Automatico Distanza Stima";
+"Automatic Distance Estimation" = "Stima automatica della distanza";
 
 /* Automatic Distance Explanation */
-"Distance Explanation" = "Le stime camminavano distanza automaticamente, questo è in genere più preciso rispetto all'utilizzo di un lunghezza della falcata fissa.";
+"Distance Explanation" = "Le stime camminavano distanza automaticamente, questo è in genere più preciso rispetto all'utilizzo di una lunghezza di falcata fissa.";
 
 /* Merge Apple Watch Data */
-"Merge Apple Watch Data" = "Unisci dati con Apple Watch";
+"Merge Apple Watch Data" = "Unisci i dati con Apple Watch";
 
 /* Intelligently merge motion data from your iPhone and Apple Watch to give a better overall view of your activity. */
 "Intelligently merge motion data from your iPhone and Apple Watch to give a better overall view of your activity." = "Integra intelligentemente i dati di movimento del tuo iPhone e del tuo Apple Watch per avere una visione migliore della tua attività.";
@@ -146,10 +146,10 @@
 "Daily Push Goal" = "Obiettivo spinte giornaliere";
 
 /* Wheelchair Mode */
-"Wheelchair Mode" = "Modalità di sedia a rotelle";
+"Wheelchair Mode" = "Modalità sedia a rotelle";
 
 /* Have Pedometer++ use your Apple Watch to measure your daily wheelchair push counts rather than steps. */
-"Have Pedometer++ use your Apple Watch to measure your daily wheelchair push counts rather than steps." = "Consenti a Pedometer++ di usare il tuo Apple Watch per misurare le spinte con la sedia a rotelle piuttosto che i passi.";
+"Have Pedometer++ use your Apple Watch to measure your daily wheelchair push counts rather than steps." = "Consenti a Pedometer++ di usare il tuo Apple Watch per misurare le spinte sulla sedia a rotelle anziché i passi.";
 
 /* number of days that a streak is active */
 "days" = "giorni";
@@ -160,9 +160,8 @@
 /* No comment provided by engineer. */
 "When enabled, activity streaks will not be broken by a single day missed after six consecutive days of reaching your goal." = "Quando abilitato, evita che le sequenze di attività vengano interrotte da un singolo giorno di riposo dopo sei giorni consecutivi per il raggiungimento dell'obiettivo.";
 
-
 /* Units to use to display distances (km vs mi) */
-"Distance Units" = "Unità di distanza";
+"Distance Units" = "Unità di misura";
 
 /* Title on the section of the app wehre you can email the developer */
 "Get Help" = "Chiedi assistenza";
@@ -231,7 +230,7 @@
 "Weekend Walker" = "Passeggiatore del weekend";
 
 /* explanation of the weekend walker badge */
-"15,000 steps on a consecutive Saturday and Sunday" = "15.000 passi nel corso di sabato e domenica consecutivi";
+"15,000 steps on a consecutive Saturday and Sunday" = "15.000 passi nel corso di Sabato e Domenica consecutivi";
 
 /* title for a special award earned for hitting your goal for a whole month */
 "Perfect Month" = "Mese perfetto";
@@ -402,7 +401,7 @@
 
 "Rest Days" = "Giorni di riposo";
 
-"Mirror iPhone" = "Specchio iPhone";
+"Mirror iPhone" = "Duplica iPhone";
 
 "Override" = "Sovrascrivi";
 
@@ -416,7 +415,7 @@
 
 "Basic Icons" = "Icone di base";
 
-"It doesn't look like you have Email setup on your iPhone, this is required for export." = "Sembra che non abbia configurato la posta elettronica sul tuo iPhone, questo è necessario per l'esportazione.";
+"It doesn't look like you have Email setup on your iPhone, this is required for export." = "Sembra che non hai configurato la posta elettronica sul tuo iPhone, questo è necessario per l'esportazione.";
 
 "Duration" = "Durata";
 
@@ -426,7 +425,7 @@
 
 "Pace" = "Andatura";
 
-"Distance Goal" = "Obiettivo di distanza";
+"Distance Goal" = "Distanza dall'obiettivo";
 
 "Calories" = "Calorie";
 
@@ -446,7 +445,7 @@
 
 "Export as GPX" = "Esporta come GPX";
 
-"Don't Overlay Route" = "Non sovrapporre percorso";
+"Don't Overlay Route" = "Non sovrapporre il percorso";
 
 "Walking" = "Camminare";
 
@@ -460,7 +459,7 @@
 
 "To add a GPX file to this list, locate the file on your iPhone and then hit **Share** and choose Pedometer++ as the destination." = "Per aggiungere un file GPX a questo elenco, individua il file sul tuo iPhone e premi **Condividi** e scegli Pedometer++ come destinazione.";
 
-"Downloading a route saves a roughly 800m wide strip of map along the track. This is not a wide area map suitable for primary navigation. Be careful and wise out there." = "Scaricare un percorso salva una striscia di mappa larga circa 800 metri lungo la traccia. Questo non è un mappamondo adatto alla navigazione principale. Stai attento e saggio là fuori.";
+"Downloading a route saves a roughly 800m wide strip of map along the track. This is not a wide area map suitable for primary navigation. Be careful and wise out there." = "Scaricare un percorso salva una striscia di mappa larga circa 800 metri lungo la traccia. Questa non è una mappa ad ampia area adatta per la navigazione primaria. Sii attento e vigile là fuori.";
 
 "This route display is for informational purposes only and does **not replace** proper navigational tools and common sense." = "Questa visualizzazione di percorso è solo a scopo informativo e non **sostituisce** gli strumenti di navigazione adeguati e il buon senso.";
 
