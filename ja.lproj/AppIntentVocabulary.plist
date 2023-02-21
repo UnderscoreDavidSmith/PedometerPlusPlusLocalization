@@ -9,7 +9,7 @@
 			<string>INStartWorkoutIntent</string>
 			<key>IntentExamples</key>
 			<array>
-				<string>Start an outdoor walk with Pedometer</string>
+				<string>Pedometerで室外ウォークを始める</string>
 			</array>
 		</dict>
 	</array>
