@@ -2,4 +2,4 @@
 "CFBundleDisplayName" = "歩数計";
 
 /* Explanation of why Pedometer++ is asking to use your motion tracking data */
-"NSMotionUsageDescription" = "「歩数計++」を使えば iPhone 内臓の「モーションデータ」を利用して、バッテリーを消耗せずにユーザーの歩数を計測することができるよ。";
+"NSMotionUsageDescription" = "「歩数計++」を利用すると iPhone のモーションデータを利用して、バッテリーを消耗せずに歩数を計測することができます。";
