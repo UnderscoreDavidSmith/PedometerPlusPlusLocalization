@@ -17,7 +17,7 @@
 "Customary" = "Abituale";
 
 /* Title for the settings section where the user sets their daily walking step count goal */
-"Daily Step Goal" = "Obiettivo di passi giornalieri";
+"Daily Step Goal" = "Obiettivo passi giornalieri";
 
 /* Button indicating the they want to return */
 "Done" = "Fine";
@@ -116,13 +116,13 @@
 "Automatic Distance Estimation" = "Stima automatica della distanza";
 
 /* Automatic Distance Explanation */
-"Distance Explanation" = "Le stime camminavano distanza automaticamente, questo è in genere più preciso rispetto all'utilizzo di una lunghezza di falcata fissa.";
+"Distance Explanation" = "La lunghezza della falcata viene calcolata automaticamente dai tuoi dispositivi, di solito è più precisa rispetto all'utilizzo di una lunghezza fissa.";
 
 /* Merge Apple Watch Data */
 "Merge Apple Watch Data" = "Unisci i dati con Apple Watch";
 
 /* Intelligently merge motion data from your iPhone and Apple Watch to give a better overall view of your activity. */
-"Intelligently merge motion data from your iPhone and Apple Watch to give a better overall view of your activity." = "Integra intelligentemente i dati di movimento del tuo iPhone e del tuo Apple Watch per avere una visione migliore della tua attività.";
+"Intelligently merge motion data from your iPhone and Apple Watch to give a better overall view of your activity." = "Integra i dati di movimento del tuo Apple Watch e iPhone per avere una visione migliore della tua attività.";
 
 /* Start Walk */
 "Start Walk" = "Avvia Camminata";
@@ -176,7 +176,7 @@
 "Have a question or suggestion for the app?" = "Hai una domanda o un suggerimento per l'app?";
 
 /* description for the export button */
-"Export your step data for use outside of the app." = "Esporta i dati relativi ai passi per l'uso al di fuori dell'app.";
+"Export your step data for use outside of the app." = "Esporta i dati per condividerli con chi vuoi.";
 
 /* button title to restore past purchase */
 "Restore Purchase" = "Ripristina acquisto";
@@ -191,10 +191,10 @@
 "Achievements" = "Successi";
 
 /* title for the Day Total awards section of the Achievements area */
-"Day Totals" = "Totali giornalieri";
+"Day Totals" = "Passi giornalieri";
 
 /* title for the Streaks awards section of the Achievements area */
-"Streaks" = "Strisce";
+"Streaks" = "Giorni perfetti";
 
 /* title for the Lifetime Steps awards section of the Achievements area */
 "Lifetime Steps" = "Totale globale dei passi";
@@ -375,7 +375,7 @@
 
 "Routes" = "Percorsi";
 
-"During your workouts it is possible to display your current location on a map. On this map you can overlay a GPS route for reference." = "Durante i tuoi allenamenti è possibile visualizzare la tua posizione attuale su una mappa. Su questa mappa puoi sovrapporre un percorso GPS come riferimento.";
+"During your workouts it is possible to display your current location on a map. On this map you can overlay a GPS route for reference." = "Durante gli allenamenti è possibile visualizzare la tua posizione attuale su una mappa. Su questa mappa puoi sovrapporre un percorso GPS come riferimento.";
 
 "View Routes" = "Visualizza percorsi";
 
@@ -459,7 +459,7 @@
 
 "To add a GPX file to this list, locate the file on your iPhone and then hit **Share** and choose Pedometer++ as the destination." = "Per aggiungere un file GPX a questo elenco, individua il file sul tuo iPhone e premi **Condividi** e scegli Pedometer++ come destinazione.";
 
-"Downloading a route saves a roughly 800m wide strip of map along the track. This is not a wide area map suitable for primary navigation. Be careful and wise out there." = "Scaricare un percorso salva una striscia di mappa larga circa 800 metri lungo la traccia. Questa non è una mappa ad ampia area adatta per la navigazione primaria. Sii attento e vigile là fuori.";
+"Downloading a route saves a roughly 800m wide strip of map along the track. This is not a wide area map suitable for primary navigation. Be careful and wise out there." = "Scaricare un percorso salva una porzione di mappa larga circa 800 metri. Questa non è una mappa ad ampia area adatta per la navigazione primaria. Sii attento e vigile là fuori.";
 
 "This route display is for informational purposes only and does **not replace** proper navigational tools and common sense." = "Questa visualizzazione di percorso è solo a scopo informativo e non **sostituisce** gli strumenti di navigazione adeguati e il buon senso.";
 
